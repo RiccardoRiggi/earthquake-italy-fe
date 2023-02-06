@@ -1,0 +1,37 @@
+.react-datepicker__day--selected{
+  background-color: #e74a3b!important;
+}
+
+.leaflet-container{
+  width: 80vw;
+  height: 73vh;
+}
+
+.leaflet-div-icon {
+  background: transparent;
+  border: none;
+} 
+
+.magnitudo-very-low{
+  color: #00ff95;
+}
+
+.magnitudo-low{
+  color: #77ff00;
+}
+
+.magnitudo-mid{
+  color: #ffe600;
+}
+
+.magnitudo-mid-high{
+  color: #ff8400;
+}
+
+.magnitudo-high{
+  color: #ff0000;
+}
+
+.magnitudo-very-high{
+  color: #ff00cc;
+}
